@@ -14,4 +14,6 @@ isPurple equal to true.
 Summary:  This allows for the user to click the button
 repeatedly without having to reload the page.  Therefore it is dynamic/interactive.
 
+7.) Made the code DRYer by using the .classList.toggle method.  Had to add a style in the header with the class purple in order for it to work.
+
 We can name our var isColor but as long as we make sure that we keep the color we want consistent with the actual naming convention then it will still be valid.  In this case, we wanted Purple.
