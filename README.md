@@ -10,5 +10,8 @@ If it is purple, we changed the background white and created
 a new var isPurple equal to false.
 Else change the background purple and create a new var
 isPurple equal to true.
+6.) Instead of using WET code, we placed the isPurple at the very end of our function.  
 Summary:  This allows for the user to click the button
 repeatedly without having to reload the page.  Therefore it is dynamic/interactive.
+
+We can name our var isColor but as long as we make sure that we keep the color we want consistent with the actual naming convention then it will still be valid.  In this case, we wanted Purple.
