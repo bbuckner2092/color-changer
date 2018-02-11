@@ -1,1 +1,2 @@
-alert("Hello World!");
+var button = document.getElementsByTagName("button");
+
